@@ -1,0 +1,14 @@
+GPU 1
+
+	AMD Radeon(TM) Graphics
+
+	Driver version:	31.0.12044.3
+	Driver date:	25-10-2022
+	DirectX version:	12 (FL 12.1)
+	Physical location:	PCI bus 6, device 0, function 0
+
+	Utilization	2%
+	Dedicated GPU memory	292/496 MB
+	Shared GPU memory	0.1/3.7 GB
+	GPU Memory	0.4/4.2 GB
+
